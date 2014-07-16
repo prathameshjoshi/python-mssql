@@ -15,3 +15,8 @@ Before starting connection go thought to do list.
 9.  Run following command to test connection
      a. tsql -H <hostname or ipaddress> -p <portnumber> -U <username>
 10. Once the connection is successful ready to use template.
+
+Required Software Packages.
+
+1. pymssql
+2. freeds
